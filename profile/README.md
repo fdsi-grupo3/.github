@@ -1,6 +1,6 @@
 # FDSI-GP-03 · Extracción de instrucciones del sistema
 
-Proyecto del **Seminario Aplicado de Ciberseguridad en IA** (FDSI/SPTI 2026-2),
+Proyecto del **Seminario Aplicado de Ciberseguridad en IA** (FDSI 2026-2),
 Escuela Colombiana de Ingeniería Julio Garavito.
 
 **Profesor:** Javier Iván Toquica Barrera
